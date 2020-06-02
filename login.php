@@ -1,2 +1,3 @@
 <?php
 $usuario;
+$password;
